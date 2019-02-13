@@ -268,37 +268,6 @@ group_names = ["<10", "10-14", "15-19", "20-24", "25-29", "30-34", "35-39", "40+
 
 
 
-##This is where Gwen stops :( I do not have any more time and wanted to try to concentrate on formulas working instead of just putting them in
-
-
-# ## Most Popular Items
-
-# * Retrieve the Item ID, Item Name, and Item Price columns
-# 
-# 
-# * Group by Item ID and Item Name. Perform calculations to obtain purchase count, item price, and total purchase value
-# 
-# 
-# * Create a summary data frame to hold the results
-# 
-# 
-# * Sort the purchase count column in descending order
-# 
-# 
-# * Optional: give the displayed data cleaner formatting
-# 
-# 
-# * Display a preview of the summary data frame
-# 
-# 
-
-# In[9]:
-
-
-
-
-
-# ## Most Profitable Items
 
 # * Sort the above table by total purchase value in descending order
 # 
